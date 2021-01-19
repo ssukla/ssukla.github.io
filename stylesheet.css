@@ -1,0 +1,15 @@
+@font-face {
+    
+font-family: 'Pieces NFI';
+    
+src: url('https://ssukla.github.io/font/PiecesNFI.woff2') format('woff2'),
+        
+url('https://ssukla.github.io/font/PiecesNFI.woff') format('woff');
+   
+ font-weight: normal;
+   
+ font-style: normal;
+   
+ font-display: swap;
+}
+

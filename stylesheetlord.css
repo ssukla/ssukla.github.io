@@ -1,0 +1,14 @@
+h73 {
+    font-family: 'Elvish Ring NFI';
+    
+src: url('http://ssukla.github.io/font/ElvishRingNFI.woff2') format('woff2'),
+        
+url('http://ssukla.github.io/font/ElvishRingNFI.woff') format('woff');
+    
+font-weight: 100;
+   
+ font-style: normal;
+    
+font-display: swap;
+}
+

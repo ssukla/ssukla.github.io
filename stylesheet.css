@@ -5,6 +5,7 @@
 
 h95 {
   font-family: myFirstFont;
+  color: #D60000
 }
 
 @font-face {
@@ -14,4 +15,5 @@ h95 {
 
 h73 {
   font-family: benimilkfontum;
+  color: #FFCF3A
 }

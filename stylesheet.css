@@ -6,3 +6,12 @@
 h95 {
   font-family: myFirstFont;
 }
+
+@font-face {
+  font-family: benimilkfontum;
+  src: url(https://ssukla.github.io/font/ElvishRingNFI.woff);
+}
+
+73 {
+  font-family: benimilkfontum;
+}

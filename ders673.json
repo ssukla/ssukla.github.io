@@ -1,0 +1,14 @@
+{
+	"isim":"Serhat",
+	"soyisim":"ŞUKLA",
+	"yas":23,
+	"meslek":"Bilgisayar Yazılımcısı",
+	"sehir":"bursa",
+	"bildigidiller":[
+		{"dil":"Javascript", "seviye":"başlangoç"},
+		{"dil":"Php", "seviye":"-"},
+		{"dil":"Html", "seviye":"-"},
+		{"dil":"Css", "seviye":"-"},
+		{"dil":"Asp", "seviye":"-"}
+	]
+}

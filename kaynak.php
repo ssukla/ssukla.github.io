@@ -9,7 +9,7 @@
 <?php
 $GelenVeri 	=	$_GET["deger"];
 if($GelenVeri!=""){
-	$VeritabaniBaglantisi	=	mysqli_connect("localhost", "root", "", "ders");
+	$VeritabaniBaglantisi	=	mysqli_connect("https://ssukla.github.io/kisiler.sql");
 	if(!$VeritabaniBaglantisi){
 		die("Veritabanı Bağlantı Hatası");
 	}

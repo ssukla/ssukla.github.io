@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KATALOG>
+	<SETLER>
+		<ÜRÜN>KOLA</ÜRÜN>
+		<MARKASİ>Coca Cola</MARKASİ>
+		<FIYAT>5,00 TL</FIYAT>
+	</SETLER>
+	<SETLER>
+		<ÜRÜN>ÇİPS</ÜRÜN>
+		<MARKASİ>Doritos</MARKASİ>
+		<FIYAT>125,00 TL</FIYAT>
+	</SETLER>
+	<SETLER>
+		<ÜRÜN>ŞEKERLEME</ÜRÜN>
+		<MARKASİ>Olips</MARKASİ>
+		<FIYAT>5,00 TL</FIYAT>
+	</SETLER>
+	<SETLER>
+		<ÜRÜN>SİGARA</ÜRÜN>
+		<MARKASİ>Lark</MARKASİ>
+		<FIYAT>225,00 TL</FIYAT>
+	</SETLER>
+	<SETLER>
+		<ÜRÜN>Enerji içeçeği</ÜRÜN>
+		<MARKASİ>Red Bull</MARKASİ>
+		<FIYAT>190,00 TL</FIYAT>
+	</SETLER>
+</KATALOG>

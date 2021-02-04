@@ -9,7 +9,7 @@
 <?php
 $GelenVeri 	=	$_GET["deger"];
 if($GelenVeri!=""){
-	$VeritabaniBaglantisi	=	mysqli_connect("162.253.155.227", "242358", "serhat2008", "kişiler");
+	$VeritabaniBaglantisi	=	mysqli_connect("162.253.155.227", "242358", "serhat2008", "242358");
 	if(!$VeritabaniBaglantisi){
 		die("Veritabanı Bağlantı Hatası");
 	}

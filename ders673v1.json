@@ -1,0 +1,44 @@
+{
+	"setler":[
+		{
+			"ÜRÜN":"KOLA",
+			"MARKASİ":"Coca Cola",
+			"fiyat":"5,00 TL"
+		},
+		{
+			"ÜRÜN":"ÇİPS",
+			"MARKASİ":"Doritos",
+			"fiyat":"5,00 TL"
+		},
+		{
+			"ÜRÜN":"ŞEKERLEME",
+			"MARKASİ":"Olips",
+			"fiyat":"3,00 TL"
+		},
+		{
+			"ÜRÜN":"SİGARA",
+			"MARKASİ":"Lark",
+			"fiyat":"5,00 TL"
+		},
+		{
+			"ÜRÜN":"Enerji içeçeği",
+			"MARKASİ":"Red Bull",
+			"fiyat":"5,00 TL"
+		},
+		{
+			"ÜRÜN":"Votka",
+			"MARKASİ":"İstanBlue",
+			"fiyat":"125,00 TL"
+		},
+		{
+			"ÜRÜN":"Çikolata",
+			"MARKASİ":"Ülker",
+			"fiyat":"5,00 TL"
+		},
+		{
+			"ÜRÜN":"Bardak",
+			"MARKASİ":"Paşabahçe",
+			"fiyat":"5,00 TL"
+		}
+	]
+}

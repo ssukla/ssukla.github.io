@@ -2,14 +2,14 @@
 <html lang="tr-TR">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<title>Extra Eğitim</title>
+<title>serhat sukla</title>
 </head>
 
 <body>
 <?php
 $GelenVeri 	=	$_GET["deger"];
 if($GelenVeri!=""){
-	$VeritabaniBaglantisi	=	mysqli_connect("https://ssukla.github.io/kisiler.sql");
+	$VeritabaniBaglantisi	=	mysqli_connect("162.253.155.227", "242358", "serhat2008", "kişiler");
 	if(!$VeritabaniBaglantisi){
 		die("Veritabanı Bağlantı Hatası");
 	}
@@ -17,12 +17,12 @@ if($GelenVeri!=""){
 	mysqli_set_charset($VeritabaniBaglantisi, "utf8");
 	
 	$KayitSorgula	=	mysqli_fetch_assoc(mysqli_query($VeritabaniBaglantisi,"SELECT * FROM kisiler WHERE id=$GelenVeri ORDER BY id ASC LIMIT 1"));
-		$isimdegeri					=	$KayitSorgula["isim"];
+		$isimdegeri					=	$KayitSorgula["İsim"];
 		$soyisimdegeri				=	$KayitSorgula["soyisim"];
-		$yasdegeri					=	$KayitSorgula["yas"];
+		$yasdegeri					=	$KayitSorgula["yaş"];
 		$meslekdegeri				=	$KayitSorgula["meslek"];
 		$sehirdegeri				=	$KayitSorgula["sehir"];
-		$emailadresidegeri			=	$KayitSorgula["emailadresi"];
+		$emailadresidegeri			=	$KayitSorgula["arabasi"];
 		$websitesiadresidegeri		=	$KayitSorgula["websitesiadresi"];
 	
 	echo	"İsim : ".$isimdegeri."<br />";
